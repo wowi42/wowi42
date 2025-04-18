@@ -1,16 +1,26 @@
-## Hi there 👋
+# Loïc Tosser 🚀
 
-<!--
-**wowi42/wowi42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## CTO at Kalvad | Tech Enthusiast | Powerlifter
 
-Here are some ideas to get you started:
+Hello there! I'm Loïc Tosser, the CTO at Kalvad, and I'm all about blending technology with a dash of fun and a pinch of sarcasm. Welcome to my GitHub corner of the internet! 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills 🛠️
+
+- **Programming Languages**: Python 🐍, Zig ⚡, Crystal 💎, Gleam ✨, Elixir 🧪, Mintlang 🍃
+- **Frameworks & Tools**: Django 🎨, PyInfra 🏗️
+- **Operating Systems**: FreeBSD 🐧, AlpineLinux ⛰️
+- **Databases & Data**: PostgreSQL 🐘, Quickwit 🔍, Apache Parquet 📦, Garage 🚗
+
+### Experience 🕵️‍♂️
+
+- **CTO at Kalvad**: Leading the tech charge and making sure our systems are as sleek as they are functional.
+- **Previous Roles**: [Insert any previous roles or notable experiences here]
+
+### Interests 🎯
+
+- **Automation**: Because who doesn't love making machines do the boring stuff? 🤖
+- **Powerlifting**: When I'm not coding, you'll find me lifting heavy things and putting them down. 💪
+
+### Contact 📞
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ltosser/). Let's connect and chat about tech, powerlifting, or anything in between!
