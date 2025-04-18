@@ -11,11 +11,6 @@ Hello there! I'm Loïc Tosser, the CTO at Kalvad, and I'm all about blending tec
 - **Operating Systems**: FreeBSD 🐧, AlpineLinux ⛰️
 - **Databases & Data**: PostgreSQL 🐘, Quickwit 🔍, Apache Parquet 📦, Garage 🚗
 
-### Experience 🕵️‍♂️
-
-- **CTO at Kalvad**: Leading the tech charge and making sure our systems are as sleek as they are functional.
-- **Previous Roles**: [Insert any previous roles or notable experiences here]
-
 ### Interests 🎯
 
 - **Automation**: Because who doesn't love making machines do the boring stuff? 🤖
